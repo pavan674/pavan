@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323384808608",
+    "firebase_url": "https://skillship-e14a2.firebaseio.com",
+    "project_id": "skillship-e14a2",
+    "storage_bucket": "skillship-e14a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323384808608:android:5b66d59680e551207b65c5",
+        "android_client_info": {
+          "package_name": "com.vaagdevi.skillship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323384808608-rjotg6himn2ss92pn9phqup9cn05js0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5HnD32pEyRJg9KUFsJDIVkG5Cgn_k60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323384808608-rjotg6himn2ss92pn9phqup9cn05js0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
